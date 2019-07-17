@@ -6,9 +6,19 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o css/"
   },
+  "homepage":"https://Marcelo1975.github.io/FormEnter",  
+  "bugs": {
+      "url": "https://github.com/Marcelo1975/FormEnter/issues",
+      "email": "cecel.alex@gmail.com"
+    },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "ISC",  
+  "author": "M18web",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Marcelo1975/FormEnter.git"
+    },
   "dependencies": {
     "node-sass": "^4.12.0"
   }
